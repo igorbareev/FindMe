@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<room>
+	<background>assets/_room.png</background>
+	<items>
+		<item type='astrolabe' position='1' x='542' y='239'>
+			assets/astrolabe_1.png
+		</item>
+		<item type='bat' position='1' x='605' y='101'>
+			assets/bat_1.png
+		</item>
+		<item type='bat' position='2' x='566' y='459'>
+			assets/bat_2.png
+		</item>
+		<item type='catalog' position='1' x='334' y='185'>
+			assets/catalog_1.png
+		</item>
+		<item type='comet' position='1' x='155' y='420'>
+			assets/comet_1.png
+		</item>
+		<item type='comet' position='2' x='446' y='559'>
+			assets/comet_2.png
+		</item>
+		<item type='constellation' position='1' x='-3' y='415'>
+			assets/constellation_1.png
+		</item>
+		<item type='constellation' position='2' x='196' y='456'>
+			assets/constellation_2.png
+		</item>
+		<item type='constellation' position='3' x='525' y='142'>
+			assets/constellation_3.png
+		</item>
+		<item type='crystal' position='1' x='494' y='336'>
+			assets/crystal_1.png
+		</item>
+		<item type='crystal' position='2' x='57' y='442'>
+			assets/crystal_2.png
+		</item>
+		<item type='globe' position='1' x='602' y='196'>
+			assets/globe_1.png
+		</item>
+		<item type='lens' position='1' x='318' y='64'>
+			assets/lens_1.png
+		</item>
+		<item type='lens' position='2' x='639' y='342'>
+			assets/lens_2.png
+		</item>
+		<item type='meteorite' position='1' x='448' y='217'>
+			assets/meteorite_1.png
+		</item>
+		<item type='microcosm' position='1' x='57' y='113'>
+			assets/microcosm_1.png
+		</item>
+		<item type='nebula' position='1' x='53' y='470'>
+			assets/nebula_1.png
+		</item>
+		<item type='nebula' position='2' x='463' y='462'>
+			assets/nebula_2.png
+		</item>
+		<item type='prism' position='1' x='202' y='149'>
+			assets/prism_1.png
+		</item>
+		<item type='ruler' position='1' x='111' y='253'>
+			assets/ruler_1.png
+		</item>
+		<item type='scorpion' position='1' x='643' y='463'>
+			assets/scorpion_1.png
+		</item>
+		<item type='scorpion' position='2' x='254' y='145'>
+			assets/scorpion_2.png
+		</item>
+		<item type='valve' position='1' x='661' y='544'>
+			assets/valve_1.png
+		</item>
+	</items>
+</room>
